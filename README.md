@@ -63,7 +63,7 @@ Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up w
 You can deploy this bot anywhere.
 
 
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/LazyPrincess&branch=master&name=lazyprincessbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/systemm24/LazyPrincess&branch=main&name=moviebot)"></a>
 
 
 <details><summary>Deploy To Heroku</summary>
